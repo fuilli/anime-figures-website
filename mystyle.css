@@ -14,5 +14,5 @@ img {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
-  align-content: space-between;
+  justify-content: space-around;
 }
